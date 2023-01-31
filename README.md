@@ -1,2 +1,2 @@
 # tutorial
-はじめてにgit
+はじめてのgit
